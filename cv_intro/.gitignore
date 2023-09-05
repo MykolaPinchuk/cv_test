@@ -1,0 +1,8 @@
+src/.ipynb_checkpoints/
+<<<<<<< HEAD
+.weights
+*.weights
+**/*.weights
+=======
+>>>>>>> 20fc2e9386eb410cbc401297aec6bca09224b6fd
+

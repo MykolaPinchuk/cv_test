@@ -1,0 +1,4 @@
+*.weights
+**/.*weights
+cv_intro/artifacts/*.weights
+
